@@ -17,7 +17,7 @@ _This program is used to demonstrate my current understanding of HTML, CSS and G
 
 ## Setup/Installation Requirements
 
-https://github.com/AJwoodrum/My-Portfolio.git
+AJwoodrum.github.io/My-Portfolio
 
 * _Copy link to repository_
 * _Clone into your Terminal_
